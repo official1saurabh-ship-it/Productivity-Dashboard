@@ -4,7 +4,7 @@ A modern, feature-rich productivity dashboard built with React and Vite. It prov
 
 ## Features
 
-- **Dashboard** – Overview of your day at a glance
+- **Dashboard** – Overview of  your day at a glance
 - **Todo List** – Manage your tasks with ease
 - **Daily Planner** – Plan your day hour by hour
 - **Daily Goals** – Set and track daily objectives
